@@ -1,0 +1,4 @@
+﻿  3212-Count-Submatrices-With-Equal-Frequency-of-X-and-Y.cpp
+D:\Projects\3212-Count-Submatrices-With-Equal-Frequency-of-X-and-Y\3212-Count-Submatrices-With-Equal-Frequency-of-X-and-Y.cpp(8,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Projects\3212-Count-Submatrices-With-Equal-Frequency-of-X-and-Y\3212-Count-Submatrices-With-Equal-Frequency-of-X-and-Y.cpp(9,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  3212-Count-Submatrices-With-Equal-Frequency-of-X-and-Y.vcxproj -> D:\Projects\3212-Count-Submatrices-With-Equal-Frequency-of-X-and-Y\x64\Debug\3212-Count-Submatrices-With-Equal-Frequency-of-X-and-Y.exe
