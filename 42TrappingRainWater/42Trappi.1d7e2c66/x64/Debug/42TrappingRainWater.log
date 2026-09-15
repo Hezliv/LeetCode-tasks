@@ -1,0 +1,3 @@
+﻿  42TrappingRainWater.cpp
+D:\Projects\42TrappingRainWater\42TrappingRainWater.cpp(8,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  42TrappingRainWater.vcxproj -> D:\Projects\42TrappingRainWater\x64\Debug\42TrappingRainWater.exe

@@ -1,0 +1,4 @@
+﻿  30SubstringWithConcatenationofAllWords.cpp
+D:\Projects\30SubstringWithConcatenationofAllWords\30SubstringWithConcatenationofAllWords.cpp(12,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\30SubstringWithConcatenationofAllWords\30SubstringWithConcatenationofAllWords.cpp(16,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  30SubstringWithConcatenationofAllWords.vcxproj -> D:\Projects\30SubstringWithConcatenationofAllWords\x64\Debug\30SubstringWithConcatenationofAllWords.exe
